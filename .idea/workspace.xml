@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a24ea8-eb15-432c-adb6-0a96fd564603" name="Changes" comment="Clase asiento auto y motor">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Asiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Asiento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Auto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Motor.java" afterDir="false" />
     </list>
