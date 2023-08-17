@@ -11,8 +11,10 @@ public class Motor {
 
     public void asignarTipo(String tipoMotor) {
         switch (tipoMotor) {
-            case "electrico" -> this.tipo = "electrico";
-            case "gasolina" -> this.tipo = "gasolina";
+            case 1: tipoMotor = "electrico"
+                this.tipo = "electrico";
+            case 2: tipoMotor = "gasolina"
+                this.tipo = "gasolina";
         }
     }
 
