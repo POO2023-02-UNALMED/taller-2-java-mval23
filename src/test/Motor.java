@@ -15,4 +15,5 @@ public class Motor {
             case "gasolina" -> this.tipo = "gasolina";
         }
     }
+
 }

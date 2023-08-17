@@ -1,7 +1,5 @@
 package src.test;
 
-import java.lang.reflect.Array;
-
 public class Auto {
     public String modelo;
     public int precio;

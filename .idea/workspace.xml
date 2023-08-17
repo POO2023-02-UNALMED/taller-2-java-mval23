@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57a24ea8-eb15-432c-adb6-0a96fd564603" name="Changes" comment="Clase asiento auto y motor" />
+    <list default="true" id="57a24ea8-eb15-432c-adb6-0a96fd564603" name="Changes" comment="Clase asiento auto y motor">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Motor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Maria/OneDrive/Documentos/university/ObjectOrientedProgramming/taller-2-java-mval23/src/test",
+    "last_opened_file_path": "C:/Users/Maria/OneDrive/Documentos/university/poo/taller-2-java-mval23",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
