@@ -7,16 +7,28 @@ public class Asiento {
 
     public void cambiarColor(String color) {
         switch (color) {
-            case 1: color = "rojo";
+            case 1:
+                color = "rojo";
                 this.color = "rojo";
-            case 2: color = "verde" ;
+                break;
+            case 2:
+                color = "verde";
                 this.color = "verde";
-            case 3: color = "amarillo";
+                break;
+            case 3:
+                color = "amarillo";
                 this.color = "amarillo";
-            case 4: color = "negro" ;
+                break;
+            case 4:
+                color = "negro";
                 this.color = "negro";
-            case 5: color = "blanco";
+                break;
+            case 5:
+                color = "blanco";
                 this.color = "blanco";
+                break;
+            default:
+                break;
         }
     }
 
