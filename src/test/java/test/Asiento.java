@@ -6,7 +6,7 @@ public class Asiento {
     public int registro;
 
     public void cambiarColor(String color) {
-        if (color == "rojo" {
+        if (color == "rojo") {
             this.color = "rojo";
         } else if (color == "verde") {
             this.color = "verde";
